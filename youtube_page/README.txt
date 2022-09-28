@@ -1,0 +1,1 @@
+This is a React.js app on making a simple youtube video streaming page using the Youtube API and style the layout with Semantic UI and basic css. The intention was to practice using State System and Lifecycle methods instead of the Hook System. You can start this app by running "npm start" with node.js
